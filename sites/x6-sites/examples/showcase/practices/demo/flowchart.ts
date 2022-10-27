@@ -12,7 +12,7 @@ const graph = new Graph({
     enabled: true,
     zoomAtMousePosition: true,
     modifiers: 'ctrl',
-    minScale: 0.5,
+    minScale: 0.6,
     maxScale: 3,
   },
   connecting: {
